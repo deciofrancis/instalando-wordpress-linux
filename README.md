@@ -31,7 +31,7 @@ Extarir os arquivos baixados
 ```
 sudo tar xvfz latest-pt_BR.tar.gz
 ```
-...
+Adicionando a pasta ao grupo www-data:
 ```
 sudo chown www-data.www-data wordpress
 ```
