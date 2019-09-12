@@ -45,7 +45,7 @@ https://leandro.blog.br/2018/senha-root-do-mysql-no-ubuntu-18-10/
 Acessar o mysql com a senha definida:
 ```
 mysql -u root -p
-create database 'nome do banco'
+create database nome do banco;
 ```
 Comando para ver os bancos existentes:
 ```
